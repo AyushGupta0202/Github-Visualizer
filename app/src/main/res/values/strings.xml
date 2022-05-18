@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Visualizer</string>
+    <string name="search_a_repo">Search a repo</string>
+</resources>
